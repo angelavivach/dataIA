@@ -1,0 +1,7 @@
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+
+# Datos de DSMarket: superan el límite de 100 MB de GitHub
+Master nuclio/DSMarket_corregido/**/*.csv
+Master nuclio/DSMarket_corregido/**/*.zip
